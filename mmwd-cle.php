@@ -8,7 +8,6 @@ Author: McGregor Media Web Design
 Author URI: https://mcgregormedia.co.uk
 Requires at least: 4.2
 Tested up to: 4.6
-Copyright: © 2015 McGregor Media Web Design
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 */
