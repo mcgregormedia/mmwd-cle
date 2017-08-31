@@ -3,22 +3,29 @@ Contributors: mcgregormedia
 Donate link: https://www.paypal.me/mcgregormedia
 Tags: login, log in, error message, security, mu-plugins
 Requires at least: 4.2
-Tested up to: 4.6
-Stable tag: 1.0.1
+Tested up to: 4.9
+Stable tag: 1.0.2
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Change the standard WordPress login error so it doesn't reveal whether it's the username or password that hasn't been recognised.
+Hide whether it's the username or password that is wrong on a failed login.
 
 == Description ==
-Change the standard WordPress login error so it doesn't reveal whether it's the username or password that hasn't been recognised.
+Hide whether it's the username or password that is wrong on a failed login.
+
+This plugin adds a text box to Admin > Settings > General to set your own message or simply use the plugin's default message ('Login error: username and password combination was not recognised.').
 
 == Installation ==
-Upload the mmwd-cle folder to the wp-content/plugins directory then activate the plugin in Plugins > Installed Plugins.
-
-For maximum security, upload this plugin to the wp-content/mu-plugins directory instead. This will ensure the plugin cannot be deactivated unless it is deleted from the mu-plugins directory. Using FTP, create a mu-plugins directory with file permissions 755 in the wp-content directory if it doesn't already exist. Upload the mmw-cle plugin directory to wp-content/mu-plugins, then move mmwd-cle.php out of the mmwd-cle directory and into the directory folder. The plugin will be automatically activated.
+Install as usual by going to Plugins > Add New and searching for MMWD Custom Login Error or download the plugin file and upload to your-site.com/wp-content/plugins.
 
 == Changelog ==
+1.1.0 31-08-2017
+ADDED: Ability to enter your own error message
+UPDATED: Tested up to WordPress 4.9
+
+1.0.2 06-12-2016
+UPDATED: Tested up to WordPress 4.7
+
 1.0.1 09-08-2016
 UPDATED: Tested up to WordPress 4.6
 UPDATED: Login error message
