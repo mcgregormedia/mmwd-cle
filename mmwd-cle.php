@@ -3,11 +3,11 @@
 Plugin Name: MMWD Custom Login Error
 Plugin URI: https://mcgregormedia.co.uk/projects/mmwd-custom-login-error/
 Description: Hide whether it's the username or password that is wrong on a failed login.
-Version: 1.5.0
+Version: 1.6.0
 Author: McGregor Media Web Design
 Author URI: https://mcgregormedia.co.uk
 Requires at least: 4.2
-Tested up to: 5.2
+Tested up to: 5.3
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 */
