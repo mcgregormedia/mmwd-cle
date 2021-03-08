@@ -3,7 +3,7 @@ Contributors: mcgregormedia
 Donate link: https://www.paypal.me/mcgregormedia
 Tags: login, log in, error message, security, mu-plugins
 Requires at least: 4.2
-Tested up to: 5.6
+Tested up to: 5.7
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -22,6 +22,9 @@ This plugin does not gather or store any personal data.
 Install as usual by going to Plugins > Add New and searching for MMWD Custom Login Error or download the plugin file and upload to your-site.com/wp-content/plugins.
 
 == Changelog ==
+1.10.0 08-03-2021
+UPDATED: Tested up to WordPress 5.7
+
 1.9.0 24-11-2020
 UPDATED: Tested up to WordPress 5.6
 
